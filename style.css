@@ -1,0 +1,15 @@
+html, body{
+    margin:0;
+    padding: 0;
+    background-color:  	#f9fbfd;
+}
+*{
+    box-sizing: border-box;
+}
+#hello{
+    background-image: url('pictures/hello.jpg');
+    height: 500px;
+    background-size: cover;
+
+}
+
